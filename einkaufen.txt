@@ -1,5 +1,5 @@
 Ich hab hier ne Liste zum Verändern:
-
+Hier habe ich Samuel die Einkaufsliste lokal verändet
 Eier 
 Milch
 Dosenbier
